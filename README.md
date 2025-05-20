@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Energy-Efficient Video Transmission Leveraging Deep Joint Source-Channel Coding in Unmanned Aerial Vehicle Networks
 
